@@ -8,9 +8,9 @@
   
 - 📫 Estou disponível através de email e redes sociais.
   
-- 😄 Ela/Dela. ![image](https://github.com/JaqueSRM10/JaqueSRM10/assets/171282582/40755f00-d7a3-4f9c-80a3-88e79b6ef713)
+- 😄 Ela/Dela.
 
-- ⚡ Ao estar estabelecido em sua primreira oportunidade de emprego, tudo parece fácil e engraçado. ![image](https://github.com/JaqueSRM10/JaqueSRM10/assets/171282582/870e1267-9806-4058-b7e5-eff37659d9fb)
+- ⚡ Ao estar estabelecido em sua primreira oportunidade de emprego, tudo parece fácil e engraçado.
 
 
 <!---
