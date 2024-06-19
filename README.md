@@ -41,7 +41,6 @@ Estou comprometida em aprimorar minhas habilidades e adquirir mais experiência 
 ### Contato
 - **Email:** [imergindonatech@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/jaqueline-miranda-685118257]
-- **GitHub:** [https://github.com/JaqueSRM10/]
 # Perfil_Profissional_TI
 Apresento aqui a demonstração de alguns trabalhos elaborados que seguem em refinamento.
 
