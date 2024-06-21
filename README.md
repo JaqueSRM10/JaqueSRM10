@@ -34,7 +34,7 @@ Destaco alguns exemplos e projetos onde utilizei essas linguagens:
 - **MySQL:**
 - Desenvolvimento, edições de Bancos de Dados.
 - **PHP:**
-- Primeiros comandos.
+- Primeiros comandos e pequenos projetos.
 ### Objetivos Futuros
 Estou comprometida em aprimorar minhas habilidades e adquirir mais experiência na área de desenvolvimento de sistemas, buscando enfrentar desafios mais complexos e inovadores.
 
